@@ -1,6 +1,7 @@
 class AntAlgorithms
 end
 
+require_relative 'ant-algorithms/cupms'
 require_relative 'ant-algorithms/tsp'
 require_relative 'ant-algorithms/smttp'
 require_relative 'ant-algorithms/pms'
